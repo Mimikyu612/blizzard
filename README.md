@@ -1,0 +1,2 @@
+# blizzard
+Pokemon Showdown Server
